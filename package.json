@@ -1,0 +1,21 @@
+{
+    "name": "terra",
+    "displayName": "terra",
+    "description": "An earthy color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.72.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Terra",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Terra-color-theme.json"
+            }
+        ]
+    }
+}
