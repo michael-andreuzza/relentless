@@ -1,30 +1,30 @@
-![Midnight](https://serendipitytheme.com/images/ogTwitter.png)
 
-# Terra for VS Code.
+
+# *Titillating for VS Code.
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`Terra`**
+2. Search for **`Titillating `**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
- **Terra**
+ **Titillating**
 
 The theme is available for editors, shells, UI's and more coming up. Checkout the website
 ## Options
 ### Sunset
 
-![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-css.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-html.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-java.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-js.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-md.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-py.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-terminal.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-cpp.jpg?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-cs.jpg?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-css.jpg?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-html.jpg?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-java.jpg?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-js.jpg?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-md.jpg?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-py.jpg?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-sh.jpg?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-terminal.jpg?raw=true)
 ## Available Options
-- Terra Sunset
+- titillating Sunset
  three themes, Midnight, Sunset and Morning and here the screenshots
 
 
@@ -133,5 +133,5 @@ To **disable** italics for all themes, add this snippet to your `settings.json`:
 ```
 
 
-Terra Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza).
+titillating Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza).
 [Twitter](https://twitter.com/Mike_Andreuzza)
