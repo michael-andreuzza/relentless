@@ -13,16 +13,16 @@ The theme is available for editors, shells, UI's and more coming up. Checkout th
 ## Options
 ### Sunset
 
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-cpp.jpg?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-cs.jpg?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-css.jpg?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-html.jpg?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-java.jpg?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-js.jpg?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-md.jpg?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-py.jpg?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-sh.jpg?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sunset-terminal.jpg?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/cs.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/css.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/html.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/java.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/js.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/md.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/py.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sh.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/terminal.png?raw=true)
 ## Available Options
 - titillating Sunset
  three themes, Midnight, Sunset and Morning and here the screenshots
