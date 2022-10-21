@@ -1,14 +1,6 @@
 ![Midnight](https://serendipitytheme.com/images/ogTwitter.png)
 
-# Serendipity for VS Code.
-
-# Official website
--  [Serendipity](https://serendipitytheme.com)
-
-On the official website you will find guidelines, color refference, color pickers and a list of interefaces that Serendipity has been ported to.
-
-
-
+# Terra for VS Code.
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
@@ -18,63 +10,30 @@ On the official website you will find guidelines, color refference, color picker
  **Terra**
 
 The theme is available for editors, shells, UI's and more coming up. Checkout the website
-
-## Available Options
-- Light Morning
-- Dark Sunset
-- Dark Midnight
-
-## Icons
-A super simple set of four super hyper mega cool icons for file, folder, open folder and  special files. I will add more in the future.
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/icons/icons.png?raw=true)
-
-
-### Options
-You have three themes, Midnight, Sunset and Morning and here the screenshots
-### Midnight
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/midnight-screenshots/midnight-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/midnight-screenshots/midnight-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/midnight-screenshots/midnight-css.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/midnight-screenshots/midnight-html.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/midnight-screenshots/midnight-java.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/midnight-screenshots/midnight-js.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/midnight-screenshots/midnight-md.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/midnight-screenshots/midnight-py.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/midnight-screenshots/midnight-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/midnight-screenshots/midnight-terminal.png?
-
+## Options
 ### Sunset
 
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/sunset-screenshots/sunset-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/sunset-screenshots/sunset-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/sunset-screenshots/sunset-css.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/sunset-screenshots/sunset-html.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/sunset-screenshots/sunset-java.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/sunset-screenshots/sunset-js.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/sunset-screenshots/sunset-md.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/sunset-screenshots/sunset-py.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/sunset-screenshots/sunset-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/sunset-screenshots/sunset-terminal.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-cs.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-css.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-html.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-java.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-js.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-md.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-py.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-sh.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/terra/blob/master/images/sunset-screenshots/sunset-terminal.png?raw=true)
+## Available Options
+- Terra Sunset
+ three themes, Midnight, Sunset and Morning and here the screenshots
 
-
-### Morning
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/morning-screenshots/morning-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/morning-screenshots/morning-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/morning-screenshots/morning-css.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/morning-screenshots/morning-html.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/morning-screenshots/morning-java.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/morning-screenshots/morning-js.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/morning-screenshots/morning-md.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/morning-screenshots/morning-py.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/morning-screenshots/morning-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/serendipity/blob/master/morning-screenshots/morning-terminal.png?raw=true)
 
 ## Personal Settings.
 
 ```js
 {
 
-  "editor.fontFamily": "'IBM Plex Mono', monospace",
+  "editor.fontFamily": "'Dank Mono', monospace",
   "editor.fontSize": 18,
   "editor.lineHeight": 38,
   "editor.letterSpacing": 0.5,
