@@ -1,7 +1,21 @@
 {
     "name": "terra",
     "displayName": "terra",
-    "description": "An earthy color theme",
+    "description": "Elegant, minimal, and clean color palette.",
+    "publisher": "wicked-labs",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/michael-andreuzza/terra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/michael-andreuzza/terra.git",
+    "email": "michael@andreuzza.com"
+  },
+  "icon": "logo/theme-icon.png",
+  "galleryBanner": {
+    "color": "#1f2430",
+    "theme": "dark"
+  },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.72.0"
@@ -9,12 +23,18 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+    "michael andreuzza",
+    "terra",
+    "elegant",
+    "dark-theme"
+  ],
     "contributes": {
         "themes": [
             {
                 "label": "Terra",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Terra-color-theme.json"
+                "path": "./themes/terra-color-theme.json"
             }
         ]
     }
