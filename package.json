@@ -1,6 +1,6 @@
 {
-    "name": "terra",
-    "displayName": "terra",
+    "name": "titillating",
+    "displayName": "Titillating",
     "description": "Elegant, minimal, and clean color palette.",
     "publisher": "wicked-labs",
     "repository": {
@@ -32,9 +32,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Terra",
+                "label": "Titillating Sunet",
                 "uiTheme": "vs-dark",
-                "path": "./themes/terra-sunset.json"
+                "path": "./themes/titillating-sunset.json"
             }
         ]
     }
