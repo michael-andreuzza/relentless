@@ -25,7 +25,6 @@ The theme is available for editors, shells, UI's and more coming up. Checkout th
 ![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/terminal.png?raw=true)
 ## Available Options
 - titillating Sunset
- three themes, Midnight, Sunset and Morning and here the screenshots
 
 
 ## Personal Settings.
@@ -47,14 +46,14 @@ The theme is available for editors, shells, UI's and more coming up. Checkout th
 }
 ```
 
-All themes use italics for certain language tokens by default.
-To **disable** italics for all themes, add this snippet to your `settings.json`:
+The theme uses italics for certain language tokens by default.
+To **disable** italics, add this snippet to your `settings.json`:
   - quotes and *italic* strings (like in markdown) will be unaffected and still be italic
   - if you want to exclude one of the themes from this change, simply remove its name (along with the brackets `[]`) at the top of the snippet
 
 ```jsonc
 "editor.tokenColorCustomizations": {
-  "[Serendipity Morning][Serendipity Sunset][Serendipity Midnight]": {
+  "[Titillating Sunset]": {
     "textMateRules": [
       {
         "scope": [
