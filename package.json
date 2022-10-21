@@ -34,7 +34,7 @@
             {
                 "label": "Terra",
                 "uiTheme": "vs-dark",
-                "path": "./themes/terra-color-theme.json"
+                "path": "./themes/terra-sunset.json"
             }
         ]
     }
