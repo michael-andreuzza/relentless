@@ -4,19 +4,19 @@
     "description": "Elegant, minimal, and clean color palette.",
     "publisher": "wicked-labs",
     "repository": {
-    "type": "git",
-    "url": "https://github.com/michael-andreuzza/terra.git"
-  },
-  "bugs": {
-    "url": "https://github.com/michael-andreuzza/terra.git",
-    "email": "michael@andreuzza.com"
-  },
-  "icon": "logo/theme-icon.png",
-  "galleryBanner": {
-    "color": "#232834",
-    "theme": "dark"
-  },
-    "version": "0.0.2",
+        "type": "git",
+        "url": "https://github.com/michael-andreuzza/terra.git"
+    },
+    "bugs": {
+        "url": "https://github.com/michael-andreuzza/terra.git",
+        "email": "michael@andreuzza.com"
+    },
+    "icon": "logo/theme-icon.png",
+    "galleryBanner": {
+        "color": "#232834",
+        "theme": "dark"
+    },
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.72.0"
     },
@@ -24,11 +24,11 @@
         "Themes"
     ],
     "keywords": [
-    "michael andreuzza",
-    "terra",
-    "elegant",
-    "dark-theme"
-  ],
+        "michael andreuzza",
+        "terra",
+        "elegant",
+        "dark-theme"
+    ],
     "contributes": {
         "themes": [
             {
