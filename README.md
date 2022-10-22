@@ -1,6 +1,7 @@
 
 
 # *Titillating for VS Code.
+I am still testing colors but they wont be too different, feel free to test and drop some feedback.
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
