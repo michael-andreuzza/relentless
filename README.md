@@ -10,22 +10,7 @@ I am still testing colors but they wont be too different, feel free to test and 
 4. Code > Preferences > Color Theme >
  **Titillating**
 
-The theme is available for editors, shells, UI's and more coming up. Checkout the website
-## Options
-### Sunset
-
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/cs.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/css.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/html.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/java.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/js.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/md.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/py.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sh.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/terminal.png?raw=true)
-## Available Options
-- titillating Sunset
+The theme is available for VS Code
 
 
 ## Personal Settings.
