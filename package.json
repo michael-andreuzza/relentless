@@ -33,7 +33,7 @@
         "themes": [
             {
                 "label": "Titillating Midnight",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/titillating-midnight.json"
             },
             {
