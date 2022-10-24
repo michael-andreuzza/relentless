@@ -16,7 +16,7 @@
         "color": "#CEC7FF",
         "theme": "light"
     },
-    "version": "0.2.0",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.72.0"
     },
@@ -31,9 +31,7 @@
     ],
     "contributes": {
         "themes": [
-
-
-             {
+            {
                 "label": "Titillating Midnight",
                 "uiTheme": "vs",
                 "path": "./themes/titillating-midnight.json"
