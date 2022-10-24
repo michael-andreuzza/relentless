@@ -13,8 +13,8 @@
     },
     "icon": "logo/theme-icon.png",
     "galleryBanner": {
-        "color": "#393552",
-        "theme": "dark"
+        "color": "#CEC7FF",
+        "theme": "light"
     },
     "version": "0.2.0",
     "engines": {
@@ -31,6 +31,13 @@
     ],
     "contributes": {
         "themes": [
+
+
+             {
+                "label": "Titillating Midnight",
+                "uiTheme": "vs",
+                "path": "./themes/titillating-midnight.json"
+            },
             {
                 "label": "Titillating Sunet",
                 "uiTheme": "vs-dark",
