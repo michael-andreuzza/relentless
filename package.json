@@ -5,16 +5,16 @@
     "publisher": "wicked-labs",
     "repository": {
         "type": "git",
-        "url": "https://github.com/michael-andreuzza/terra.git"
+        "url": "https://github.com/michael-andreuzza/titillating.git"
     },
     "bugs": {
-        "url": "https://github.com/michael-andreuzza/terra.git",
+        "url": "https://github.com/michael-andreuzza/titillating.git",
         "email": "michael@andreuzza.com"
     },
     "icon": "logo/theme-icon.png",
     "galleryBanner": {
-        "color": "#CEC7FF",
-        "theme": "light"
+        "color": "#29273f",
+        "theme": "dark"
     },
     "version": "0.5.0",
     "engines": {
@@ -25,13 +25,13 @@
     ],
     "keywords": [
         "michael andreuzza",
-        "terra",
+        "titillating",
         "elegant",
         "dark-theme"
     ],
     "contributes": {
         "themes": [
-            {
+ {
                 "label": "Titillating Midnight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/titillating-midnight.json"
