@@ -13,7 +13,7 @@
     },
     "icon": "logo/theme-icon.png",
     "galleryBanner": {
-        "color": "#282A48",
+        "color": "#000117",
         "theme": "dark"
     },
     "version": "0.8.0",
