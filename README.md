@@ -1,17 +1,38 @@
 
 
 # *Titillating for VS Code.
-I am still testing colors but they wont be too different, feel free to test and drop some feedback.
+### Options
+You have three themes, Midnight, Sunset and Morning and here the screenshots
+### Sunset
+
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/cs.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/css.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/html.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/java.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/js.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/md.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/py.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sh.png?raw=true)
+
+### Midnight
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/cs.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/css.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/html.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/java.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/js.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/md.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/py.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/sh.png?raw=true)
+
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`Titillating `**
+2. Search for **`Titillating`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
  **Titillating**
-
-The theme is available for VS Code
-
 
 ## Personal Settings.
 
