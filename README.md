@@ -1,38 +1,38 @@
 
 
-# *Titillating for VS Code.
+# *Relentless theme for VS Code.
 ### Options
-You have three themes, Midnight, Sunset and Morning and here the screenshots
+You have two themes, Midnight n' Sunset and here the screenshots
 ### Sunset
 
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/cs.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/css.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/html.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/java.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/js.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/md.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/py.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/sunset-screenshots/sh.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/sunset-screenshots/cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/sunset-screenshots/cs.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/sunset-screenshots/css.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/sunset-screenshots/html.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/sunset-screenshots/java.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/sunset-screenshots/js.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/sunset-screenshots/md.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/sunset-screenshots/py.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/sunset-screenshots/sh.png?raw=true)
 
 ### Midnight
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/cs.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/css.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/html.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/java.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/js.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/md.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/py.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/titillating/blob/master/images/midnight-screenshots/sh.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/midnight-screenshots/cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/midnight-screenshots/cs.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/midnight-screenshots/css.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/midnight-screenshots/html.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/midnight-screenshots/java.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/midnight-screenshots/js.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/midnight-screenshots/md.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/midnight-screenshots/py.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/relentless/blob/master/images/midnight-screenshots/sh.png?raw=true)
 
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`Titillating`**
+2. Search for **`Relentless`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
- **Titillating**
+ **Relentless**
 
 ## Personal Settings.
 
@@ -60,7 +60,7 @@ To **disable** italics, add this snippet to your `settings.json`:
 
 ```jsonc
 "editor.tokenColorCustomizations": {
-  "[Titillating Sunset]": {
+  "[Relentless Sunset]": {
     "textMateRules": [
       {
         "scope": [
@@ -139,5 +139,5 @@ To **disable** italics, add this snippet to your `settings.json`:
 ```
 
 
-titillating Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza).
+Relentless Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza).
 [Twitter](https://twitter.com/Mike_Andreuzza)

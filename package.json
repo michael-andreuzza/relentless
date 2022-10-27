@@ -1,14 +1,14 @@
 {
-    "name": "titillating",
-    "displayName": "Titillating",
+    "name": "relentless",
+    "displayName": "Relentless",
     "description": "Elegant, simple & electric.",
     "publisher": "wicked-labs",
     "repository": {
         "type": "git",
-        "url": "https://github.com/michael-andreuzza/titillating.git"
+        "url": "https://github.com/michael-andreuzza/relentless.git"
     },
     "bugs": {
-        "url": "https://github.com/michael-andreuzza/titillating.git",
+        "url": "https://github.com/michael-andreuzza/relentless.git",
         "email": "michael@andreuzza.com"
     },
     "icon": "logo/theme-icon.png",
@@ -25,21 +25,21 @@
     ],
     "keywords": [
         "michael andreuzza",
-        "titillating",
+        "relentless",
         "elegant",
         "dark-theme"
     ],
     "contributes": {
         "themes": [
+
             {
-                "label": "Titillating Sunet",
+                "label": "Relentless Midnight",
                 "uiTheme": "vs-dark",
-                "path": "./themes/titillating-sunset.json"
-            },
-            {
-                "label": "Titillating Midnight",
+                "path": "./themes/relentless-midnight.json"
+            },{
+                "label": "Relentless Sunset",
                 "uiTheme": "vs-dark",
-                "path": "./themes/titillating-midnight.json"
+                "path": "./themes/relentless-sunset.json"
             }
         ]
     }
