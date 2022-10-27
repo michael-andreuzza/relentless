@@ -31,15 +31,16 @@
     ],
     "contributes": {
         "themes": [
-            {
-                "label": "Titillating Midnight",
-                "uiTheme": "vs-dark",
-                "path": "./themes/titillating-midnight.json"
-            },
+
             {
                 "label": "Titillating Sunet",
                 "uiTheme": "vs-dark",
                 "path": "./themes/titillating-sunset.json"
+            },
+            {
+                "label": "Titillating Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/titillating-midnight.json"
             }
         ]
     }
